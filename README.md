@@ -37,5 +37,5 @@ and [`Research Summary`](https://www.notion.so/incorpcj/c86206e8d26641fca0d11a80
 ## 2. Outcome
 >
 > Two papers related to this study are currently being reviewed and one is being prepared for publication. We presented relevant research at 3 conferences(_2018 Asian Conference on Railway Engineering and Transportation, __2020 Spring Korean railway Conference, 2020 Asian Conference on Railway Engineering__(**postponed to Nov 2021**)_). We also won the `Excellent Paper Presentation Award from 2020 spring korean railway conference!`.  
-> [excellent_prestation_award](https://user-images.githubusercontent.com/50191848/99972162-878d2d80-2de1-11eb-99ca-ca43de629e12.jpg)
+> <center><img src="https://user-images.githubusercontent.com/50191848/99972162-878d2d80-2de1-11eb-99ca-ca43de629e12.jpg" width="50%" height="50%"></center> <br>
 > For more detailed infromation Please contact us by e-mail shown 0.READ ME! at above.
