@@ -16,7 +16,7 @@ and [`Research Summary`](https://www.notion.so/incorpcj/c86206e8d26641fca0d11a80
 > If you need more detailed information or collaborative research, please contact us!  
 >
 > `professor Seong J. Cho` : **scho@cnu.ac.kr**  
-> `Sung Uk Hong` : **hsu@add.re.kr**  
+> `Sung Uk Hong` : **hsu12375@gmail.com**  
 > `Cheol Jeong Park` : **pffiro@gmail.com**  
 > `1ongwon Yoon` : **jongwon3498@naver.com**  
 
